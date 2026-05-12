@@ -1,10 +1,10 @@
 import React from 'react'
-import './ProfileUpdate'
+import './ProfileUpdate.css'
 
 const ProfileUpdate = () => {
-    return(
+    return (
         <div>
-        we are on the profile page
+            we are on the profile page
         </div>
     )
 }

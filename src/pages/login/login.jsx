@@ -1,9 +1,10 @@
 import React from 'react'
 import './Login.css'
+
 const Login = () => {
-    return(
+    return (
         <div>
-        we are on the chat page
+            we are on the chat page
         </div>
     )
 }
